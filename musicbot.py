@@ -7,7 +7,7 @@ from discord import FFmpegPCMAudio
 from dotenv import load_dotenv
 
 load_dotenv()
-TOKEN = 'ODgzNDA4MTk3ODk2MDA3NzMw.YTJf_w._rCUxm_dXG-_1Xj9NMMpZ-sI7a8'
+TOKEN = '[Insert Token Here]'
 TIME_REGEX = r"([0-9]{1,2})[:ms](([0-9]{1,2})s?)?"
 
 bot = commands.Bot(command_prefix='!')
